@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+ <repositories version="1.0">
+   <repo priority="50" quality="experimental" status="unofficial">
+     <name>marax-overlay</name>
+     <description>Public overlay for personal purposes</description>
+     <homepage>https://github.com/wisprp/marax-overlay</homepage>
+     <owner>
+       <email></email>
+     </owner>
+     <source type="git">git://github.com/wisprp/marax-overlay.git</source>
+   </repo>
+</repositories>
